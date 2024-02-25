@@ -3,11 +3,11 @@
 JUYEON919/JUYEON919 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <!-- 헤더 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:142c5f,50:7F7FD5,100:142c5f&text=%20HanJuYeon💫%20%20&height=200&fontSize=50&fontColor=ffffff"/>
-
 <div align=center>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:142c5f,50:7F7FD5,100:142c5f&text=%20HanJuYeon💫%20%20&height=200&fontSize=50&fontColor=ffffff"/>
 <!--소개-->
 
 ## Introduction :raised_hands:
@@ -18,7 +18,10 @@ Hi, I am trying to become a nice developer😎
 <div align=center><h1>🌓 Contact 🌓</h1></div>
 
 <!--포폴pdf-->
-
+<a href="https://1drv.ms/b/s!An7zI-C7dV9o2VOkqt0_tglkeb2G?e=4nDql8">
+    <img src="https://img.shields.io/badge/My%20portfolio%20PDF-F52525?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+</a>
+<br>
 <br>
 
 <div style="display:flex; flex-direction:row;">
@@ -26,7 +29,7 @@ Hi, I am trying to become a nice developer😎
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="mailto:minibubbles030@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
      <a href="mailto:wndus5357@naver.com">
         <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
@@ -88,3 +91,4 @@ Hi, I am trying to become a nice developer😎
 -->
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
+
